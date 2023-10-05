@@ -18,3 +18,4 @@ Assista ao vídeo para aprender como você também pode usar essa técnica para 
 
 
 Espero que este vídeo seja útil e informativo para você. Se tiver alguma dúvida ou sugestão, deixe um comentário abaixo. Obrigado por assistir!
+## pip install selenium seleniumbase PrettyColorPrinter a-selenium2df
